@@ -1,2 +1,2 @@
 # wrk_benchmark
-The results of benchmarking Angel via wrk.
+Deprecated in favor of TechEmpower benchmarks.
